@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Mieszk@niec</string>
+    <string name="title_activity_main">Mieszk@niec</string>
+    <string name="package_name">pl.softfin.mieszkaniec</string>
+    <string name="fileprovider_authority">pl.softfin.mieszkaniec.fileprovider</string>
+    <string name="custom_url_scheme">pl.softfin.mieszkaniec</string>
+</resources>

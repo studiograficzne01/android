@@ -1,0 +1,14 @@
+{
+  "appId": "pl.softfin.mieszkaniec",
+  "appName": "Mieszk@niec",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "allowMixedContent": true,
+  "webContentsDebuggingEnabled": false,
+  "android": {
+    "webContentsDebuggingEnabled": false
+  },
+  "ios": {
+    "webContentsDebuggingEnabled": false
+  }
+}
